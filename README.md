@@ -9,3 +9,7 @@ This repo is for listing ideas for possible apps to create.
 
 ### Apps
 * [ ] - Simulate Mine Logistics (Ore Grade Blocks -> Transportation -> Buffer/Stockpile -> Transportation -> etc)
+
+### Web
+* [ ] - Website for charity or similar
+
